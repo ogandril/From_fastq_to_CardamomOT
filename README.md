@@ -1,3 +1,5 @@
+This scripts are intended to prepare, from fastq sequences, the most relevant .h5ad matrix for CardamomOT
+
 Execute in the following order:
 
 Define_cells.ipynb
